@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WifiTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="wifi_list_name">搜索到的WIFI站点列表</string>
+    <string name="wifi_list_empty">未搜索到可用的WIFI站点</string>
+    <string name="empty"></string>
+    <string name="refresh_wifilist">刷新WIFI列表</string>
+</resources>
